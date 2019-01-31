@@ -51,7 +51,7 @@ Use the `gcloud` command to create the `k0` Kubernetes cluster:
 
 ```
 gcloud container clusters create k0 \
-  --cluster-version 1.9.2-gke.1 \
+  --cluster-version 1.10.11-gke.1 \
   --zone us-central1-a \
   --num-nodes 1
 ```
